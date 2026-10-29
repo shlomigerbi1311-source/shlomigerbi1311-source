@@ -1,4 +1,4 @@
-# Shlomi Gerbi
+# Shlomi Jereby
 
 I'm a Computer Science student at the College of Management Academic Studies in Israel, expecting to graduate in 2027.
 
